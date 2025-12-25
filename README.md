@@ -1,23 +1,17 @@
-#💫 About Me:
+## 💫 About Me
 
-🎓 Who I am
-<br><br>
+🎓 **Who I am**  
 A BCA student who enjoys building real-world projects, exploring new technologies, and improving problem-solving skills through hands-on development.
-<br><br>
 
-💻 What drives me
-<br><br>
+💻 **What drives me**  
 Passionate about software development, curious about Computer Vision and AI/ML, and always experimenting with better ways to design and build software.
-<br><br>
 
-🧠 How I work
-<br><br>
+🧠 **How I work**  
 Focused on writing code that works, understanding why it works, and continuously improving how it works.
-<br><br>
 
-⚡ Fun fact
-<br><br>
+⚡ **Fun fact**  
 One of my games works without a keyboard — just hand gestures ✋🐍
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.jhajee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-kumar-jha-41681a304/) 
