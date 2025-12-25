@@ -1,6 +1,23 @@
-# 💫 About Me:
-🔭 I am currently working on<br><br>Building projects, strengthening DSA with C++, and improving my existing applications.<br><br>👯 I am looking to collaborate on<br><br>Open-source, web apps, Python/Java projects, and beginner Computer Vision ideas.<br><br>🤝 I am looking for help with<br><br>Writing clean, scalable code and following Git & GitHub best practices.<br><br>🌱 I am currently learning<br><br>Computer Vision, Full-Stack Web Development, and advanced DSA.<br><br>⚡ Fun fact<br><br>One of my games works without a keyboard — just hand gestures ✋🐍
+#💫 About Me:
 
+🎓 Who I am
+<br><br>
+A BCA student who enjoys building real-world projects, exploring new technologies, and improving problem-solving skills through hands-on development.
+<br><br>
+
+💻 What drives me
+<br><br>
+Passionate about software development, curious about Computer Vision and AI/ML, and always experimenting with better ways to design and build software.
+<br><br>
+
+🧠 How I work
+<br><br>
+Focused on writing code that works, understanding why it works, and continuously improving how it works.
+<br><br>
+
+⚡ Fun fact
+<br><br>
+One of my games works without a keyboard — just hand gestures ✋🐍
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.jhajee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-kumar-jha-41681a304/) 
