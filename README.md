@@ -14,7 +14,8 @@ One of my games works without a keyboard — just hand gestures ✋🐍
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.jhajee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-kumar-jha-41681a304/) [🚀 My Portfolio](https://programmer-jha.github.io/Portfolio/index2.html)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.jhajee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-kumar-jha-41681a304/) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://programmer-jha.github.io/Portfolio/index2.html)
+
 
 
 # 💻 Tech Stack:
