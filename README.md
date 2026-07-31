@@ -54,11 +54,12 @@ Exploring research opportunities, building intelligent applications, strengtheni
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Programmer-Jha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Programmer-Jha&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Programmer-Jha&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-Jha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Programmer-Jha&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-Jha&layout=compact&theme=tokyonight)
 
 ### ✍️ Quote
 
